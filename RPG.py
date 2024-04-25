@@ -43,9 +43,3 @@ def main(args=None):
 
 if __name__ == '__main__':
     main()
-
-# przerob skrypt aby moc w nieskończonej pętli za pomocą ifów pozwolisz aby użytkownik 
-
-# 1. nazwał bohatera
-# 2. wybrał mu klase
-# 3. dał mu przedmiot
